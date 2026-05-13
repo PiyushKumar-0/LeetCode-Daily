@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
