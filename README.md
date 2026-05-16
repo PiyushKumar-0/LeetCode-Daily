@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
