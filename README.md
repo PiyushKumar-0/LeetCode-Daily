@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0001-two-sum) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Simulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0125-valid-palindrome) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
 |  |
 | ------- |
