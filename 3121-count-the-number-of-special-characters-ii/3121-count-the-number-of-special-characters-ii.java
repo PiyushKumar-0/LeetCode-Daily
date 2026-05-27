@@ -1,6 +1,6 @@
 class Solution {
     public int numberOfSpecialChars(String word) {
-     int f1[]=new int[26];
+        int f1[]=new int[26];
         int f2[]=new int[26];
 
         Arrays.fill(f1,-1);
