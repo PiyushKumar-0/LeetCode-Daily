@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
