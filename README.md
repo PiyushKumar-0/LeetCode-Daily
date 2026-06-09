@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3689-maximum-total-subarray-value-i](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
