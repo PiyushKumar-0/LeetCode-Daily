@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0027-remove-element) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0125-valid-palindrome) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
