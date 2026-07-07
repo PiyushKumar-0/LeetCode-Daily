@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0136-single-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
 |  |
