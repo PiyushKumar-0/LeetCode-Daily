@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
