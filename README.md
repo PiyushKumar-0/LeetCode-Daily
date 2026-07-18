@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -134,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
