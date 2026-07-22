@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
