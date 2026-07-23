@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 ## Number Theory
