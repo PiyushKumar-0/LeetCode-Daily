@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0136-single-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
