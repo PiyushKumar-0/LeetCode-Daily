@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
