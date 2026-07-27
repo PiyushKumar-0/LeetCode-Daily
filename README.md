@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 ## Number Theory
 |  |
