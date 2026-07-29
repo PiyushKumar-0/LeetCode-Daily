@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
+| [1314-matrix-block-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1314-matrix-block-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1314-matrix-block-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0073-set-matrix-zeroes) |
+| [1314-matrix-block-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1314-matrix-block-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
