@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0169-majority-element) |
+| [0523-continuous-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3536-maximum-product-of-two-digits) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0724-find-pivot-index) |
