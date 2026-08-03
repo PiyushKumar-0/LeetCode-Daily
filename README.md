@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0209-minimum-size-subarray-sum) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
