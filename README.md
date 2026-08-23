@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0680-valid-palindrome-ii) |
+| [1927-sum-game](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1927-sum-game) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3838-weighted-word-mapping](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3838-weighted-word-mapping) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0680-valid-palindrome-ii) |
+| [1927-sum-game](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1927-sum-game) |
 | [3689-maximum-total-subarray-value-i](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0005-longest-palindromic-substring) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
