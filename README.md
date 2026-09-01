@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1927-sum-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
