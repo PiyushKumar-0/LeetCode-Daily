@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2553-separate-the-digits-in-an-array) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [1314-matrix-block-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1314-matrix-block-sum) |
 ## Heap (Priority Queue)
