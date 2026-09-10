@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2553-separate-the-digits-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0680-valid-palindrome-ii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1927-sum-game) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
