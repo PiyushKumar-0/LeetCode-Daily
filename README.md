@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0680-valid-palindrome-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
