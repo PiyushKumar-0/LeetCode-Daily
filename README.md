@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0680-valid-palindrome-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
