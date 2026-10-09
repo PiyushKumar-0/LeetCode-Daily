@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0680-valid-palindrome-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1927-sum-game) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0680-valid-palindrome-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1927-sum-game) |
 | [3689-maximum-total-subarray-value-i](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
