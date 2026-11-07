@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0680-valid-palindrome-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/PiyushKumar-0/LeetCode-Daily/tree/master/0904-fruit-into-baskets) |
